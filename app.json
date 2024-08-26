@@ -54,7 +54,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
-      "value": "",
+      "value": "VAJIRA-MD=LRdmkSBB#CZ3z-iQrggIYE9yr6GiVx-8YO7CRyxBhHMgo-3-QXYo",
       "required": true
     },
     "OWNER_NAME": {
